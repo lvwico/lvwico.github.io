@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://Minghao23.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: HMH
+subtitle: "胡明昊"
+description: "胡明昊的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Minghao Hu
+organization: organization
+organization_url: http://www.hmh.com
+github_username: Minghao23
+location: Beijing, China
+email: hu_minghao@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: Minghao23
+    repo: Minghao23.github.io
+    clientID: 5e13dcbaa5700878625d
+    clientSecret: 69a24f8d55550e22fd2faa56a26c4aa9c4e50420
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
