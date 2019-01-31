@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: HMH
 subtitle: "胡明昊"
 description: "胡明昊的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 胡明昊, Minghao Hu, minghao, Minghao23, hmh
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Minghao Hu
-organization: organization
-organization_url: http://www.hmh.com
+organization: https://Minghao23.github.io
+organization_url: https://minghao23.github.io
 github_username: Minghao23
 location: Beijing, China
 email: hu_minghao@outlook.com
@@ -86,25 +86,11 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
-# support provider: disqus, gitment, gitalk
-comments_provider: gitalk
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: 
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Minghao23
     repo: Minghao23.github.io
-    admin: [Minghao23],
     clientID: 5e13dcbaa5700878625d
     clientSecret: 69a24f8d55550e22fd2faa56a26c4aa9c4e50420
 # 在使用其它评论组件时可点击显示 Disqus
